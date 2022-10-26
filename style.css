@@ -87,6 +87,11 @@
     width: 500px;
 }
 
+
+.proje{
+    text-align: center;
+    text-decoration: underline;
+}
 .fw-lighter{
     text-indent: 1mm;
 }
