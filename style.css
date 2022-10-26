@@ -1,0 +1,100 @@
+.main {
+
+    width: 500px;
+
+    height: 500px;
+
+    margin: auto;
+}
+
+.inner {
+
+    width: 500px;
+
+    height: 500px;
+}
+
+.row {
+
+    width: 500px;
+
+    height: 100px;
+}
+
+.img_src {
+
+    float: right;
+
+    width: 250px;
+
+    height: 100px;
+}
+
+.txt_here {
+
+    float: left;
+
+    width: 250px;
+
+    height: 100px;
+}
+
+
+.link {
+    color: black;
+    padding-right: 2px;
+}
+
+.body {
+    background-color: slategray;
+}
+
+.fa {
+    color: white'
+
+}
+
+.custom-shape-divider-top-1666488150 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1666488150 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 0px;
+}
+
+.custom-shape-divider-top-1666488150 .shape-fill {
+    fill: #FFFFFF;
+}
+
+
+.olpo{
+    text-indent: 0.2in;
+    background: linear-gradient(121.57deg, rgb(255, 255, 255) 18.77%, rgba(255, 255, 255, 0.66) 60.15%) text;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.img_n1{
+    width: 500px;
+}
+
+.fw-lighter{
+    text-indent: 1mm;
+}
+
+.body{
+    font-family:"Space Grotesk", sans-serif;
+}
+.me{
+    font-style: italic;
+    text-indent: 2mm;
+}
