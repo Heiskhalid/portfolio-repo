@@ -86,6 +86,10 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.space3{
+    text-indent: 15mm;
+}
+
 .img_n1{
     width: 500px;
 }
