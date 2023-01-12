@@ -12,18 +12,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Khalid Portfolio</title>
     <script src="https://kit.fontawesome.com/bb6a78c9d8.js" crossorigin="anonymous"></script>
-    
-
+        
     
     
   </head>
 
 <body>
-<script>
-    function loadGoogleTranslate () {
-        new google.translate.TranslateElement ("google_element");
-    }
-    </script>
+
   <!-- for mobile second nav -->
   <nav class=navbar style="background-color:dimgrey;" navbar fixed-top>
     <div class="container-fluid">
@@ -91,7 +86,16 @@
 
   </h1 >
 
-
+    <div id="google_translate_element"></div>
+    <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"> </script> 
+<script>
+    function googleTranslateElementInit (){
+        new google.translate.TranslateElement{
+            {pageLanguage: 'en'},
+                'google_translate_element'
+        };
+    }
+    </script>
   <h6 class="fw-lighter">
   
   I am a young and enthusiastic web developer based in Lagos. 
